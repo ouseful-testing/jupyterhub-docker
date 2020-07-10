@@ -1,3 +1,7 @@
+__The repo now archived to preserve legacy links — moved to https://github.com/ousefulReclaimed/jupyterhub-docker__
+
+---
+
 # JupyterHub deployment for use On Reclaim.Cloud
 
 This is a [JupyterHub](https://jupyter.org/hub) deployment based on
